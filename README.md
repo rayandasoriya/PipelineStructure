@@ -12,7 +12,7 @@ The Opunit check contains several validations of the software and settings which
 ### Pipeline workshop
 The pipeline workshop was a process to create and automate the deveopment and production processes using the concept of pipeline. Following tasks have been performed.
 1. Clone the Pipelines repo from GitHub adn runt he opunit verify local. We can see that most of the checks are failing right now. 
-!(/images/2.png)
+![](/images/2.png)
 2. A hook-demo repository has been created which contains a post commit file. This file will open automatically whenever a commit has been created. When a commit has been created, it triggers the post commit file and this file will open the google.com homepage in the default browser.
 !(/images/3.png)
 3. Installing npm inside the App/ directory and running it and verifying the results using npm test.
