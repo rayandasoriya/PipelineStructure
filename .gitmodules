@@ -1,0 +1,3 @@
+[submodule "Pipelines"]
+	path = Pipelines
+	url = ./Pipelines/.git
