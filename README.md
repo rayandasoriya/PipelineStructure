@@ -1,21 +1,5 @@
-# CSC 519 - DevOps
-## HW0
+# Building Pipeline Structure
 
-The objective of this repository is to fulfill the requirements of HW0 of CSC 519 DevOps for Spring 2019. This repository contains the opunit checks, pipelines basics demo along with the profile links for Moodle, Mattermost and Stack Overflow. 
-
-### Complete moodle, mattermost, stack overflow profiles
-* **Moodle** - https://moodle-courses1819.wolfware.ncsu.edu/user/profile.php?id=131227
-* **Mattermost** - Username: rayandasoriya
-* **Stack Overflow** - https://stackoverflow.com/c/ncsu/users/201/
-
-### Opunit checks
-The Opunit check contains several validations of the software and settings which are required for this course. All the changes have been successfully made. The screenshot of the check is available below.
-
-For Opunit check `opunit profile CSC-DevOps/profile:519.yml`
-
-![](/images/1.png)
-
-### Pipeline workshop
 The pipeline workshop was a process to create and automate the development and production processes using the concept of a pipeline. Following tasks have been performed.
 1. Clone the Pipelines repo from GitHub and run the opunit verify locally. We can see that most of the checks are failing right now. 
 
